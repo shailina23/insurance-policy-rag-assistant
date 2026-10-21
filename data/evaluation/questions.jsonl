@@ -1,0 +1,12 @@
+{"question":"What is the collision deductible in Northstar Auto Cover?","answerable":true,"expected_source":"auto_policy_v1.md","expected_evidence":"500 currency units per covered collision event"}
+{"question":"How quickly must an auto accident be reported?","answerable":true,"expected_source":"auto_policy_v1.md","expected_evidence":"within 48 hours"}
+{"question":"Does the sample home plan include flood damage?","answerable":true,"expected_source":"home_policy_v1.md","expected_evidence":"flood damage is excluded; separate endorsement would be required"}
+{"question":"What is the maximum total contents limit in the sample home policy?","answerable":true,"expected_source":"home_policy_v1.md","expected_evidence":"40,000 currency units"}
+{"question":"What is the trip cancellation limit in the sample travel policy?","answerable":true,"expected_source":"travel_policy_v1.md","expected_evidence":"up to 5,000 currency units for eligible prepaid trip costs"}
+{"question":"What is the emergency medical expense limit abroad?","answerable":true,"expected_source":"travel_policy_v1.md","expected_evidence":"up to 50,000 currency units"}
+{"question":"Can paid passenger transport use be covered under the sample auto plan?","answerable":true,"expected_source":"auto_policy_v1.md","expected_evidence":"paid passenger transport use is excluded"}
+{"question":"How long does the home policy allow to report discovered property damage?","answerable":true,"expected_source":"home_policy_v1.md","expected_evidence":"within 72 hours after discovery"}
+{"question":"Does the sample travel policy pay for routine checkups?","answerable":true,"expected_source":"travel_policy_v1.md","expected_evidence":"routine checkups are excluded"}
+{"question":"What is the premium price for the Northstar home plan?","answerable":false,"expected_source":null,"expected_evidence":"premium price is not stated in the corpus"}
+{"question":"Which repair shop must I use for an auto claim?","answerable":false,"expected_source":null,"expected_evidence":"no approved repair-shop list is provided"}
+{"question":"Is a real policyholder guaranteed reimbursement for these amounts?","answerable":false,"expected_source":null,"expected_evidence":"documents are fictional examples and do not establish real coverage"}
